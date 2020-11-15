@@ -1,0 +1,964 @@
+% Encoding: UTF-8
+
+@Article{黄凯南2009,
+  author  = {黄凯南},
+  title   = {演化博弈与演化经济学},
+  journal = {经济研究},
+  year    = {2009},
+  volume  = {2},
+  number  = {8},
+}
+
+@PhdThesis{韦晟1992,
+  author = {韦晟 and 姜卫民},
+  title  = {黄海鱼类食物网的研究},
+  year   = {1992},
+}
+
+@Article{赵坚2011,
+  author  = {赵坚 and 李力},
+  title   = {关于重力与万有引力关系的再探讨},
+  journal = {物理教学},
+  year    = {2011},
+  volume  = {1},
+  pages   = {10--l2},
+}
+
+@Article{方锦清2004,
+  author  = {方锦清 and 汪小帆},
+  title   = {略论复杂性问题和非线性复杂网络系统的研究},
+  journal = {科技导报},
+  year    = {2004},
+  volume  = {22},
+  number  = {0402},
+  pages   = {9--12},
+}
+
+@Book{汪小帆2006,
+  title     = {复杂网络理论及其应用},
+  publisher = {清华大学出版社有限公司},
+  year      = {2006},
+  author    = {汪小帆 and 李翔 and 陈关荣},
+}
+
+@Article{吴江2004,
+  author  = {吴江},
+  title   = {使用超链分析技术的搜索引擎},
+  journal = {图书情报工作},
+  year    = {2004},
+  volume  = {48},
+  number  = {7},
+  pages   = {82--85},
+}
+
+@TechReport{Page1999,
+  author      = {Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry},
+  title       = {The pagerank citation ranking: Bringing order to the web.},
+  institution = {Stanford InfoLab},
+  year        = {1999},
+}
+
+@PhdThesis{车宏安2004,
+  author = {车宏安 and 顾基发},
+  title  = {无标度网络及其系统科学意义},
+  year   = {2004},
+}
+
+@Article{Watts1998,
+  author    = {Watts, Duncan J and Strogatz, Steven H},
+  title     = {Collective dynamics of ‘small-world’networks},
+  journal   = {nature},
+  year      = {1998},
+  volume    = {393},
+  number    = {6684},
+  pages     = {440},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{周明洋2019,
+  author  = {周明洋 and 吴向阳 and 曹扬 and 罗燎 and 李晓宇 and 廖好 and 汪秉宏},
+  title   = {基于群体影响力的网络传播关键节点选择策略},
+  journal = {中国科学: 信息科学},
+  year    = {2019},
+  number  = {10},
+  pages   = {7},
+}
+
+@MastersThesis{刘涛2010,
+  author = {刘涛},
+  title  = {无线传感器网络中群同步机制研究与实现},
+  school = {西安科技大学},
+  year   = {2010},
+}
+
+@Article{Rodrigues2016,
+  author    = {Rodrigues, Francisco A and Peron, Thomas K DM and Ji, Peng and Kurths, J{\"u}rgen},
+  title     = {The Kuramoto model in complex networks},
+  journal   = {Physics Reports},
+  year      = {2016},
+  volume    = {610},
+  pages     = {1--98},
+  publisher = {Elsevier},
+}
+
+@PhdThesis{王念川2014,
+  author = {王念川},
+  title  = {简单耦合系统和耦合摆同步的实验研究},
+  year   = {2014},
+}
+
+@InCollection{Kennedy2006,
+  author    = {Kennedy, James},
+  title     = {Swarm intelligence},
+  booktitle = {Handbook of nature-inspired and innovative computing},
+  publisher = {Springer},
+  year      = {2006},
+  pages     = {187--219},
+}
+
+@Article{Zhou2016,
+  author    = {Zhou, Ming-Yang and He, Xingsheng and Fu, Zhong-Qian and Liao, Hao and Cai, Shi-min and Zhuo, Zhao},
+  title     = {Diffusion inspires selection of pinning nodes in pinning control},
+  journal   = {Physica A: Statistical Mechanics and its Applications},
+  year      = {2016},
+  volume    = {446},
+  pages     = {120--128},
+  publisher = {Elsevier},
+}
+
+@PhdThesis{孙凤兰2012,
+  author = {孙凤兰},
+  title  = {多智能体网络的一致性研究},
+  school = {华中科技大学},
+  year   = {2012},
+}
+
+@PhdThesis{彭柳2008,
+  author = {彭柳 and 方彦军},
+  title  = {基于无线传感网络的移动机器人通信研究},
+  year   = {2008},
+}
+
+@Article{Morone2015,
+  author    = {Morone, Flaviano and Makse, Hern{\'a}n A},
+  title     = {Influence maximization in complex networks through optimal percolation},
+  journal   = {Nature},
+  year      = {2015},
+  volume    = {524},
+  number    = {7563},
+  pages     = {65--68},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{谭阳红2019,
+  author  = {谭阳红 and 张婧 and 李肖},
+  title   = {基于复杂网络理论的电网节点重要度评估},
+  journal = {计算机工程},
+  year    = {2019},
+  number  = {11},
+  pages   = {43},
+}
+
+@Article{Benzi2013,
+  author    = {Benzi, Michele and Klymko, Christine},
+  title     = {Total communicability as a centrality measure},
+  journal   = {Journal of Complex Networks},
+  year      = {2013},
+  volume    = {1},
+  number    = {2},
+  pages     = {124--149},
+  publisher = {Oxford University Press},
+}
+
+@Article{Li2014,
+  author    = {Li, Qian and Zhou, Tao and L{\"u}, Linyuan and Chen, Duanbing},
+  title     = {Identifying influential spreaders by weighted LeaderRank},
+  journal   = {Physica A: Statistical Mechanics and its Applications},
+  year      = {2014},
+  volume    = {404},
+  pages     = {47--55},
+  publisher = {Elsevier},
+}
+
+@Article{Kitsak2010,
+  author    = {Kitsak, Maksim and Gallos, Lazaros K and Havlin, Shlomo and Liljeros, Fredrik and Muchnik, Lev and Stanley, H Eugene and Makse, Hern{\'a}n A},
+  title     = {Identification of influential spreaders in complex networks},
+  journal   = {Nature physics},
+  year      = {2010},
+  volume    = {6},
+  number    = {11},
+  pages     = {888--893},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Lue2016,
+  author    = {L{\"u}, Linyuan and Zhou, Tao and Zhang, Qian-Ming and Stanley, H Eugene},
+  title     = {The H-index of a network node and its relation to degree and coreness},
+  journal   = {Nature communications},
+  year      = {2016},
+  volume    = {7},
+  pages     = {10168},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Mugisha2016,
+  author    = {Mugisha, Salomon and Zhou, Hai-Jun},
+  title     = {Identifying optimal targets of network attack by belief propagation},
+  journal   = {Physical Review E},
+  year      = {2016},
+  volume    = {94},
+  number    = {1},
+  pages     = {012305},
+  publisher = {APS},
+}
+
+@Article{Hurley2006,
+  author    = {Hurley, Maureen and Jacobs, Glen and Gilbert, Melinda},
+  title     = {The basic SI model},
+  journal   = {New Directions for Teaching and Learning},
+  year      = {2006},
+  volume    = {2006},
+  number    = {106},
+  pages     = {11--22},
+  publisher = {Wiley Online Library},
+}
+
+@Article{徐心和2006,
+  author  = {徐心和 and 王骄},
+  title   = {中国象棋计算机博弈关键技术分析},
+  journal = {小型微型计算机系统},
+  year    = {2006},
+  volume  = {27},
+  number  = {6},
+  pages   = {961--969},
+}
+
+@Article{王学光2013,
+  author  = {王学光},
+  title   = {基于合作博弈论的社会网络关键节点发现研究},
+  journal = {计算机科学},
+  year    = {2013},
+  volume  = {40},
+  number  = {4},
+  pages   = {155--159},
+}
+
+@Article{Ariaratnam2001,
+  author    = {Ariaratnam, Joel T and Strogatz, Steven H},
+  title     = {Phase diagram for the Winfree model of coupled nonlinear oscillators},
+  journal   = {Physical Review Letters},
+  year      = {2001},
+  volume    = {86},
+  number    = {19},
+  pages     = {4278},
+  publisher = {APS},
+}
+
+@Article{OPQ2005,
+  author  = {MN, OPQ and RST, UV},
+  title   = {复杂网络上动力系统同步的研究进展},
+  journal = {物理学进展},
+  year    = {2005},
+  volume  = {25},
+  number  = {3},
+}
+
+@Article{Grigoriev1997,
+  author    = {Grigoriev, RO and Cross, MC and Schuster, HG},
+  title     = {Pinning control of spatiotemporal chaos},
+  journal   = {Physical Review Letters},
+  year      = {1997},
+  volume    = {79},
+  number    = {15},
+  pages     = {2795},
+  publisher = {APS},
+}
+
+@Article{Wang2002,
+  author    = {Wang, Xiao Fan and Chen, Guanrong},
+  title     = {Pinning control of scale-free dynamical networks},
+  journal   = {Physica A: Statistical Mechanics and its Applications},
+  year      = {2002},
+  volume    = {310},
+  number    = {3-4},
+  pages     = {521--531},
+  publisher = {Elsevier},
+}
+
+@Article{Chen2014,
+  author    = {Chen, Guanrong},
+  title     = {Pinning control and synchronization on complex dynamical networks},
+  journal   = {International Journal of Control, Automation and Systems},
+  year      = {2014},
+  volume    = {12},
+  number    = {2},
+  pages     = {221--230},
+  publisher = {Springer},
+}
+
+@Article{Song2010,
+  author    = {Song, Qiang and Cao, Jinde and Yu, Wenwu},
+  title     = {Second-order leader-following consensus of nonlinear multi-agent systems via pinning control},
+  journal   = {Systems \& Control Letters},
+  year      = {2010},
+  volume    = {59},
+  number    = {9},
+  pages     = {553--562},
+  publisher = {Elsevier},
+}
+
+@Article{Xiong2010,
+  author    = {Xiong, Wenjun and Ho, Daniel WC and Huang, Chi},
+  title     = {Pinning synchronization of time-varying polytopic directed stochastic networks},
+  journal   = {Physics Letters A},
+  year      = {2010},
+  volume    = {374},
+  number    = {3},
+  pages     = {439--447},
+  publisher = {Elsevier},
+}
+
+@Article{Lu2010,
+  author    = {Lu, Wenlian and Li, Xiang and Rong, Zhihai},
+  title     = {Global stabilization of complex networks with digraph topologies via a local pinning algorithm},
+  journal   = {Automatica},
+  year      = {2010},
+  volume    = {46},
+  number    = {1},
+  pages     = {116--121},
+  publisher = {Elsevier},
+}
+
+@Article{Liu2016,
+  author    = {Liu, Xinzhi and Zhang, Kexue},
+  title     = {Synchronization of linear dynamical networks on time scales: Pinning control via delayed impulses},
+  journal   = {Automatica},
+  year      = {2016},
+  volume    = {72},
+  pages     = {147--152},
+  publisher = {Elsevier},
+}
+
+@Article{Shi2017,
+  author    = {Shi, Lin and Zhu, Hong and Zhong, Shouming and Shi, Kaibo and Cheng, Jun},
+  title     = {Cluster synchronization of linearly coupled complex networks via linear and adaptive feedback pinning controls},
+  journal   = {Nonlinear Dynamics},
+  year      = {2017},
+  volume    = {88},
+  number    = {2},
+  pages     = {859--870},
+  publisher = {Springer},
+}
+
+@Article{Liu2015,
+  author    = {Liu, Xiwei and Li, Ping and Chen, Tianping},
+  title     = {Cluster synchronization for delayed complex networks via periodically intermittent pinning control},
+  journal   = {Neurocomputing},
+  year      = {2015},
+  volume    = {162},
+  pages     = {191--200},
+  publisher = {Elsevier},
+}
+
+@Article{周涛2005,
+  author  = {周涛 and 柏文洁 and 汪秉宏 and 刘之景 and 严钢},
+  title   = {复杂网络研究概述},
+  journal = {物理},
+  year    = {2005},
+  volume  = {34},
+  number  = {01},
+  pages   = {0--0},
+}
+
+@Article{Erdoes1959,
+  author  = {Erd{\"o}s, Paul and R{\'e}nyi, Alfr{\'e}d and others},
+  title   = {On random graphs},
+  journal = {Publicationes mathematicae},
+  year    = {1959},
+  volume  = {6},
+  number  = {26},
+  pages   = {290--297},
+}
+
+@Book{Durrett2007,
+  title     = {Random graph dynamics},
+  publisher = {Cambridge university press Cambridge},
+  year      = {2007},
+  author    = {Durrett, Richard},
+  volume    = {200},
+  number    = {7},
+}
+
+@InProceedings{Brodka2011,
+  author       = {Br{\'o}dka, Piotr and Skibicki, Krzysztof and Kazienko, Przemys{\l}aw and Musia{\l}, Katarzyna},
+  title        = {A degree centrality in multi-layered social network},
+  booktitle    = {2011 International Conference on Computational Aspects of Social Networks (CASoN)},
+  year         = {2011},
+  pages        = {237--242},
+  organization = {IEEE},
+}
+
+@Article{Newman2005,
+  author    = {Newman, Mark EJ},
+  title     = {A measure of betweenness centrality based on random walks},
+  journal   = {Social networks},
+  year      = {2005},
+  volume    = {27},
+  number    = {1},
+  pages     = {39--54},
+  publisher = {Elsevier},
+}
+
+@InProceedings{Okamoto2008,
+  author       = {Okamoto, Kazuya and Chen, Wei and Li, Xiang-Yang},
+  title        = {Ranking of closeness centrality for large-scale social networks},
+  booktitle    = {International workshop on frontiers in algorithmics},
+  year         = {2008},
+  pages        = {186--195},
+  organization = {Springer},
+}
+
+@Article{Perra2008,
+  author    = {Perra, Nicola and Fortunato, Santo},
+  title     = {Spectral centrality measures in complex networks},
+  journal   = {Physical Review E},
+  year      = {2008},
+  volume    = {78},
+  number    = {3},
+  pages     = {036107},
+  publisher = {APS},
+}
+
+@Article{Ma1991,
+  author    = {Ma, Y and Chen, CT and Meigs, G and Randall, K and Sette, F},
+  title     = {High-resolution K-shell photoabsorption measurements of simple molecules},
+  journal   = {Physical Review A},
+  year      = {1991},
+  volume    = {44},
+  number    = {3},
+  pages     = {1848},
+  publisher = {APS},
+}
+
+@Article{Amani2017,
+  author    = {Amani, Ali Moradi and Jalili, Mahdi and Yu, Xinghuo and Stone, Lewi},
+  title     = {Finding the most influential nodes in pinning controllability of complex networks},
+  journal   = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  year      = {2017},
+  volume    = {64},
+  number    = {6},
+  pages     = {685--689},
+  publisher = {IEEE},
+}
+
+@PhdThesis{罗利军2005,
+  author = {罗利军 and 李银山 and 李彤 and 董青田},
+  title  = {李雅普诺夫指数谱的研究与仿真},
+  year   = {2005},
+}
+
+@Article{Lue2011,
+  author    = {L{\"u}, Linyuan and Zhou, Tao},
+  title     = {Link prediction in complex networks: A survey},
+  journal   = {Physica A: statistical mechanics and its applications},
+  year      = {2011},
+  volume    = {390},
+  number    = {6},
+  pages     = {1150--1170},
+  publisher = {Elsevier},
+}
+
+@Article{LeeRodgers1988,
+  author    = {Lee Rodgers, Joseph and Nicewander, W Alan},
+  title     = {Thirteen ways to look at the correlation coefficient},
+  journal   = {The American Statistician},
+  year      = {1988},
+  volume    = {42},
+  number    = {1},
+  pages     = {59--66},
+  publisher = {Taylor \& Francis Group},
+}
+
+@Article{Zhou2019,
+  author    = {Zhou, Ming-Yang and Li, Xiao-Yu and Xiong, Wen-Man and Liao, Hao},
+  title     = {The coupling strength versus convergence speed in pinning control},
+  journal   = {Nonlinear Dynamics},
+  year      = {2019},
+  volume    = {96},
+  number    = {2},
+  pages     = {1055--1066},
+  publisher = {Springer},
+}
+
+@PhdThesis{吕金虎2008,
+  author = {吕金虎},
+  title  = {复杂网络的同步: 理论, 方法, 应用与展望},
+  year   = {2008},
+}
+
+@Article{Roessler1976,
+  author    = {R{\"o}ssler, Otto E},
+  title     = {An equation for continuous chaos},
+  journal   = {Physics Letters A},
+  year      = {1976},
+  volume    = {57},
+  number    = {5},
+  pages     = {397--398},
+  publisher = {Elsevier},
+}
+
+@Book{振亚2007,
+  title     = {复杂非线性波的构造性理论及其应用},
+  publisher = {科学出版社},
+  year      = {2007},
+  author    = {振亚 and 闫},
+}
+
+@Article{Motter2013,
+  author    = {Motter, Adilson E and Myers, Seth A and Anghel, Marian and Nishikawa, Takashi},
+  title     = {Spontaneous synchrony in power-grid networks},
+  journal   = {Nature Physics},
+  year      = {2013},
+  volume    = {9},
+  number    = {3},
+  pages     = {191--197},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Coulomb2005,
+  author    = {Coulomb, St{\'e}phane and Bauer, Michel and Bernard, Denis and Marsolier-Kergoat, Marie-Claude},
+  title     = {Gene essentiality and the topology of protein interaction networks},
+  journal   = {Proceedings of the Royal Society B: Biological Sciences},
+  year      = {2005},
+  volume    = {272},
+  number    = {1573},
+  pages     = {1721--1725},
+  publisher = {The Royal Society London},
+}
+
+@Article{Duch2005,
+  author    = {Duch, Jordi and Arenas, Alex},
+  title     = {Community detection in complex networks using extremal optimization},
+  journal   = {Physical review E},
+  year      = {2005},
+  volume    = {72},
+  number    = {2},
+  pages     = {027104},
+  publisher = {APS},
+}
+
+@InProceedings{Viswanath2009,
+  author    = {Viswanath, Bimal and Mislove, Alan and Cha, Meeyoung and Gummadi, Krishna P},
+  title     = {On the evolution of user interaction in facebook},
+  booktitle = {Proceedings of the 2nd ACM workshop on Online social networks},
+  year      = {2009},
+  pages     = {37--42},
+}
+
+@TechReport{2017,
+  title = {Hamsterster full network dataset -- {KONECT}},
+  year  = {2017},
+  month = apr,
+  url   = {http://konect.uni-koblenz.de/networks/petster-hamster},
+}
+
+@TechReport{FAA,
+  author       = {{Federal Aviation Administration}},
+  title        = {Air Traffic Control System Command Center},
+  howpublished = {\url{http://www.fly.faa.gov/}},
+}
+
+@TechReport{苑四岩2015,
+  author = {苑四岩},
+  title  = {基于博弈论的无线传感器关键节点分簇算法研究},
+  year   = {2015},
+  school = {西南大学},
+}
+
+@Article{Beuming2005,
+  author    = {Beuming, Thijs and Skrabanek, Lucy and Niv, Masha Y and Mukherjee, Piali and Weinstein, Harel},
+  title     = {PDZBase: a protein--protein interaction database for PDZ-domains},
+  journal   = {Bioinformatics},
+  year      = {2005},
+  volume    = {21},
+  number    = {6},
+  pages     = {827--828},
+  publisher = {Oxford University Press},
+}
+
+@Article{Zachary1977,
+  author    = {Zachary, Wayne W},
+  title     = {An information flow model for conflict and fission in small groups},
+  journal   = {Journal of anthropological research},
+  year      = {1977},
+  volume    = {33},
+  number    = {4},
+  pages     = {452--473},
+  publisher = {University of New Mexico},
+}
+
+@Book{Knuth2008,
+  title     = {The art of computer programming: Introduction to combinatiorial algorithms and Boolean functions},
+  publisher = {Addison-Wesley},
+  year      = {2008},
+  author    = {Knuth, Donald Ervin},
+  volume    = {4},
+}
+
+@PhdThesis{12009,
+  author = {张刚 and 张伟},
+  title  = {复杂网络的脉冲同步},
+  year   = {2009},
+}
+
+@Article{孙海义2013,
+  author  = {孙海义 and 李宁 and 张庆灵},
+  title   = {时延复杂网络的自适应周期间歇同步控制},
+  journal = {控制与决策},
+  year    = {2013},
+  volume  = {28},
+  number  = {5},
+  pages   = {797--800},
+}
+
+@Article{毛北行2015,
+  author  = {毛北行 and 张玉霞},
+  title   = {具有非线性耦合复杂网络系统的有限时间混沌同步},
+  journal = {吉林大学学报 (理学版)},
+  year    = {2015},
+  volume  = {53},
+  number  = {4},
+  pages   = {757--761},
+}
+
+@PhdThesis{陈勇2004,
+  author = {陈勇 and 胡爱群 and 胡啸},
+  title  = {通信网中节点重要性的评价方法},
+  year   = {2004},
+}
+
+@PhdThesis{谭跃进2006,
+  author = {谭跃进 and 吴俊 and 邓宏钟},
+  title  = {复杂网络中节点重要度评估的节点收缩方法},
+  year   = {2006},
+}
+
+@Article{王延庆2008,
+  author  = {王延庆},
+  title   = {基于接连失效的复杂网络节点重要性评估},
+  journal = {网络安全技术与应用},
+  year    = {2008},
+  volume  = {3},
+  pages   = {026},
+}
+
+@Article{Su2015,
+  author  = {Su, Shuqing and Yang, Kai and Zhang, Ning},
+  title   = {A comparative study of LeaderRank and PageRank algorithms [J]},
+  journal = {Information Technology},
+  year    = {2015},
+  volume  = {4},
+  pages   = {8--11},
+}
+
+@Article{任晓龙2014,
+  author  = {任晓龙 and 吕琳媛},
+  title   = {网络重要节点排序方法综述},
+  journal = {科学通报},
+  year    = {2014},
+  volume  = {59},
+  number  = {13},
+  pages   = {1175--1197},
+}
+
+@Article{毛北行2012,
+  author  = {毛北行 and 王东晓 and 卜春霞},
+  title   = {Lurie 混沌系统的脉冲控制同步},
+  journal = {华中师范大学学报 (自然科学版)},
+  year    = {2012},
+  volume  = {46},
+  number  = {3},
+  pages   = {0},
+}
+
+@PhdThesis{孙世良1998,
+  author = {孙世良 and 刘坤会},
+  title  = {一类脉冲型平稳最佳随机控制之研究},
+  year   = {1998},
+}
+
+@PhdThesis{樊春霞2010,
+  author = {樊春霞 and 蒋国平},
+  title  = {输出耦合的复杂网络自适应牵制同步},
+  year   = {2010},
+}
+
+@Article{蒋强2012,
+  author  = {蒋强 and 肖建 and 郑高 and 张勇 and 王梦玲 and 乐山师},
+  title   = {一种基于能量指数的复杂网络牵制控制策略},
+  journal = {控制与决策},
+  year    = {2012},
+  volume  = {27},
+  number  = {1},
+  pages   = {22--27},
+}
+
+@PhdThesis{马军2005,
+  author = {马军 and 廖高华 and 莫晓华 and 李维学 and 张平伟},
+  title  = {超混沌系统的间歇同步与控制},
+  year   = {2005},
+}
+
+@Article{L2002,
+  author  = {JH, L and Chen, GR},
+  title   = {A new chaotic attractor coined},
+  journal = {Int. J. Bifurc. chaos},
+  year    = {2002},
+  volume  = {12},
+  pages   = {659--661},
+}
+
+@Article{Stewart2000,
+  author    = {Stewart, Ian},
+  title     = {The Lorenz attractor exists},
+  journal   = {Nature},
+  year      = {2000},
+  volume    = {406},
+  number    = {6799},
+  pages     = {948--949},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Ringma2018,
+  author    = {Ringma, Jeremy and Legge, Sarah and Woinarski, John and Radford, Jim and Wintle, Brendan and Bode, Michael},
+  title     = {Australia’s mammal fauna requires a strategic and enhanced network of predator-free havens},
+  journal   = {Nature ecology \& evolution},
+  year      = {2018},
+  volume    = {2},
+  number    = {3},
+  pages     = {410--411},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Wang2017,
+  author    = {Wang, Xiaoling and Su, Housheng and Wang, Lin and Wang, Xiaofan},
+  title     = {Edge consensus on complex networks: a structural analysis},
+  journal   = {International Journal of Control},
+  year      = {2017},
+  volume    = {90},
+  number    = {8},
+  pages     = {1584--1596},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Holme2019,
+  author    = {Holme, Petter},
+  title     = {Rare and everywhere: Perspectives on scale-free networks},
+  journal   = {Nature communications},
+  year      = {2019},
+  volume    = {10},
+  number    = {1},
+  pages     = {1--3},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Liao2017,
+  author    = {Liao, Hao and Mariani, Manuel Sebastian and Medo, Mat{\'u}{\v{s}} and Zhang, Yi-Cheng and Zhou, Ming-Yang},
+  title     = {Ranking in evolving complex networks},
+  journal   = {Physics Reports},
+  year      = {2017},
+  volume    = {689},
+  pages     = {1--54},
+  publisher = {Elsevier},
+}
+
+@Article{Brandner2016,
+  author    = {Brandner, G{\"u}nther and Schilcher, Udo and Bettstetter, Christian},
+  title     = {Firefly synchronization with phase rate equalization and its experimental analysis in wireless systems},
+  journal   = {Computer Networks},
+  year      = {2016},
+  volume    = {97},
+  pages     = {74--87},
+  publisher = {Elsevier},
+}
+
+@Article{He2017,
+  author    = {He, Wangli and Chen, Guanrong and Han, Qing-Long and Qian, Feng},
+  title     = {Network-based leader-following consensus of nonlinear multi-agent systems via distributed impulsive control},
+  journal   = {Information Sciences},
+  year      = {2017},
+  volume    = {380},
+  pages     = {145--158},
+  publisher = {Elsevier},
+}
+
+@Article{Chen2017,
+  author    = {Chen, Zhenhao and Wu, Jiajing and Xia, Yongxiang and Zhang, Xi},
+  title     = {Robustness of interdependent power grids and communication networks: A complex network perspective},
+  journal   = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  year      = {2017},
+  volume    = {65},
+  number    = {1},
+  pages     = {115--119},
+  publisher = {IEEE},
+}
+
+@Article{Lin2016,
+  author    = {Lin, Weijie and Fan, Huawei and Wang, Ying and Ying, Heping and Wang, Xingang},
+  title     = {Controlling synchronous patterns in complex networks},
+  journal   = {Physical Review E},
+  year      = {2016},
+  volume    = {93},
+  number    = {4},
+  pages     = {042209},
+  publisher = {APS},
+}
+
+@Article{Ahmed2017,
+  author    = {Ahmed, Mohmmed Alsiddig Alamin and Liu, Yurong and Zhang, Wenbing and Alsaadi, Fuad E},
+  title     = {Exponential synchronization via pinning adaptive control for complex networks of networks with time delays},
+  journal   = {Neurocomputing},
+  year      = {2017},
+  volume    = {225},
+  pages     = {198--204},
+  publisher = {Elsevier},
+}
+
+@Article{Qin2018,
+  author    = {Qin, Zhen and Wang, Jin-Liang and Huang, Yan-Li and Ren, Shun-Yan},
+  title     = {Analysis and adaptive control for robust synchronization and H∞ synchronization of complex dynamical networks with multiple time-delays},
+  journal   = {Neurocomputing},
+  year      = {2018},
+  volume    = {289},
+  pages     = {241--251},
+  publisher = {Elsevier},
+}
+
+@Article{Zhang2018,
+  author    = {Zhang, Wanli and Li, Chuandong and Yang, Shiju and Yang, Xinsong},
+  title     = {Exponential synchronisation of complex networks with delays and perturbations via impulsive and adaptive control},
+  journal   = {IET Control Theory \& Applications},
+  year      = {2018},
+  volume    = {13},
+  number    = {3},
+  pages     = {395--402},
+  publisher = {IET},
+}
+
+@Article{Liu2016a,
+  author    = {Liu, Zhi-Wei and Yu, Xinghuo and Guan, Zhi-Hong and Hu, Bin and Li, Chaojie},
+  title     = {Pulse-modulated intermittent control in consensus of multiagent systems},
+  journal   = {IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  year      = {2016},
+  volume    = {47},
+  number    = {5},
+  pages     = {783--793},
+  publisher = {IEEE},
+}
+
+@Article{Wang2018,
+  author    = {Wang, Pengfei and Hong, Yu and Su, Huan},
+  title     = {Stabilization of stochastic complex-valued coupled delayed systems with Markovian switching via periodically intermittent control},
+  journal   = {Nonlinear Analysis: Hybrid Systems},
+  year      = {2018},
+  volume    = {29},
+  pages     = {395--413},
+  publisher = {Elsevier},
+}
+
+@Article{Wong2013,
+  author    = {Wong, Wai Keung and Zhang, Wenbing and Tang, Yang and Wu, Xiaotai},
+  title     = {Stochastic synchronization of complex networks with mixed impulses},
+  journal   = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  year      = {2013},
+  volume    = {60},
+  number    = {10},
+  pages     = {2657--2667},
+  publisher = {IEEE},
+}
+
+@Article{Lue2016a,
+  author    = {L{\"u}, Linyuan and Chen, Duanbing and Ren, Xiao-Long and Zhang, Qian-Ming and Zhang, Yi-Cheng and Zhou, Tao},
+  title     = {Vital nodes identification in complex networks},
+  journal   = {Physics Reports},
+  year      = {2016},
+  volume    = {650},
+  pages     = {1--63},
+  publisher = {Elsevier},
+}
+
+@Article{Restrepo2006,
+  author    = {Restrepo, Juan G and Ott, Edward and Hunt, Brian R},
+  title     = {Characterizing the dynamical importance of network nodes and links},
+  journal   = {Physical review letters},
+  year      = {2006},
+  volume    = {97},
+  number    = {9},
+  pages     = {094102},
+  publisher = {APS},
+}
+
+@Article{Bao2012,
+  author    = {Bao, Xue-Cai and Dai, Fu-Sheng and Han, Wei-Zhan},
+  title     = {Evaluation method of network invulnerability based on disjoint paths in topology},
+  journal   = {Systems Engineering and Electronics},
+  year      = {2012},
+  volume    = {34},
+  number    = {1},
+  pages     = {168--174},
+  publisher = {Science Press, Marketing and Sales Department Beijing 100717 China},
+}
+
+@Article{Rao2009,
+  author  = {Rao, Yu-ping and Lin, Jing-yu and Zhou, Dong-fang},
+  title   = {Method for network invulnerability and node importance evaluation},
+  journal = {Computer Engineering},
+  year    = {2009},
+  volume  = {6},
+  pages   = {14--16},
+}
+
+@Article{Jia-sheng2011,
+  author    = {Jia-sheng, Wang and Xiao-ping, Wu and Bo, Yan and Jiang-wei, Guo},
+  title     = {Improved method of node importance evaluation based on node contraction in complex networks},
+  journal   = {Procedia Engineering},
+  year      = {2011},
+  volume    = {15},
+  pages     = {1600--1604},
+  publisher = {Elsevier},
+}
+
+@Article{Strogatz2001,
+  author    = {Strogatz, Steven H},
+  title     = {Exploring complex networks},
+  journal   = {nature},
+  year      = {2001},
+  volume    = {410},
+  number    = {6825},
+  pages     = {268--276},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{Wolf1985,
+  author    = {Wolf, Alan and Swift, Jack B and Swinney, Harry L and Vastano, John A},
+  title     = {Determining Lyapunov exponents from a time series},
+  journal   = {Physica D: Nonlinear Phenomena},
+  year      = {1985},
+  volume    = {16},
+  number    = {3},
+  pages     = {285--317},
+  publisher = {Elsevier},
+}
+
+@Article{Sorrentino2007,
+  author    = {Sorrentino, Francesco and Di Bernardo, Mario and Garofalo, Franco and Chen, Guanrong},
+  title     = {Controllability of complex networks via pinning},
+  journal   = {Physical Review E},
+  year      = {2007},
+  volume    = {75},
+  number    = {4},
+  pages     = {046103},
+  publisher = {APS},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

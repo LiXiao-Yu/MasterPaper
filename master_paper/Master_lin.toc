@@ -1,0 +1,54 @@
+\contentsline {section}{摘要}{I}%
+\contentsline {section}{Abstract}{II}%
+\contentsline {section}{\numberline {第\nobreakspace {}1\nobreakspace {}章}绪论}{1}%
+\contentsline {subsection}{\numberline {1.1}研究背景}{1}%
+\contentsline {subsection}{\numberline {1.2}国内外研究现状}{2}%
+\contentsline {subsubsection}{\numberline {1.2.1}网络控制问题}{2}%
+\contentsline {subsubsection}{\numberline {1.2.2}重要节点检测算法}{4}%
+\contentsline {subsection}{\numberline {1.3}主要研究内容与意义}{5}%
+\contentsline {subsection}{\numberline {1.4}论文的组织结构}{6}%
+\contentsline {section}{\numberline {第\nobreakspace {}2\nobreakspace {}章}网络科学基础理论}{7}%
+\contentsline {subsection}{\numberline {2.1}复杂网络概述}{7}%
+\contentsline {subsubsection}{\numberline {2.1.1}复杂网络的拓扑结构}{7}%
+\contentsline {subsubsection}{\numberline {2.1.2}复杂网络的统计性质}{8}%
+\contentsline {subsubsection}{\numberline {2.1.3}常见网络的模型}{9}%
+\contentsline {subsection}{\numberline {2.2}同步和控制模型}{11}%
+\contentsline {subsubsection}{\numberline {2.2.1}Kuramoto同步模型}{11}%
+\contentsline {subsubsection}{\numberline {2.2.2}网络同步控制模型}{12}%
+\contentsline {subsection}{\numberline {2.3}重要节点检测算法}{13}%
+\contentsline {subsection}{\numberline {2.4}评价指标}{15}%
+\contentsline {subsection}{\numberline {2.5}本章小结}{16}%
+\contentsline {section}{\numberline {第\nobreakspace {}3\nobreakspace {}章}网络的牵制控制研究}{17}%
+\contentsline {subsection}{\numberline {3.1}网络的牵制控制}{17}%
+\contentsline {subsubsection}{\numberline {3.1.1}稳定性分析}{17}%
+\contentsline {subsubsection}{\numberline {3.1.2}经典比率判据}{18}%
+\contentsline {subsection}{\numberline {3.2}耦合强度范围与收敛速度}{19}%
+\contentsline {subsubsection}{\numberline {3.2.1}耦合强度范围}{19}%
+\contentsline {subsubsection}{\numberline {3.2.2}收敛速度}{20}%
+\contentsline {subsubsection}{\numberline {3.2.3}三个指标的微分分析}{20}%
+\contentsline {subsection}{\numberline {3.3}实验模拟}{21}%
+\contentsline {subsubsection}{\numberline {3.3.1}空手道网络的示例}{22}%
+\contentsline {subsubsection}{\numberline {3.3.2}实验数据}{23}%
+\contentsline {subsubsection}{\numberline {3.3.3}参数设置}{24}%
+\contentsline {subsubsection}{\numberline {3.3.4}实验结果}{25}%
+\contentsline {subsection}{\numberline {3.4}本章小结}{28}%
+\contentsline {section}{\numberline {第\nobreakspace {}4\nobreakspace {}章}重要节点检测算法在牵制控制上的研究}{29}%
+\contentsline {subsection}{\numberline {4.1}耦合强度范围的扰动研究}{29}%
+\contentsline {subsubsection}{\numberline {4.1.1}单节点的重要性检测}{29}%
+\contentsline {subsubsection}{\numberline {4.1.2}多节点的重要性检测}{30}%
+\contentsline {subsection}{\numberline {4.2}算法伪代码}{30}%
+\contentsline {subsection}{\numberline {4.3}性能评估}{31}%
+\contentsline {subsubsection}{\numberline {4.3.1}仿真网络上的示例}{32}%
+\contentsline {subsubsection}{\numberline {4.3.2}数据描述}{33}%
+\contentsline {subsubsection}{\numberline {4.3.3}对比方法与参数设置}{33}%
+\contentsline {subsubsection}{\numberline {4.3.4}实验结果及分析}{34}%
+\contentsline {subsection}{\numberline {4.4}本章小结}{37}%
+\contentsline {section}{\numberline {第\nobreakspace {}5\nobreakspace {}章}总结与展望}{38}%
+\contentsline {subsection}{\numberline {5.1}本文总结}{38}%
+\contentsline {subsection}{\numberline {5.2}研究展望}{38}%
+\contentsline {section}{参考文献}{40}%
+\contentsline {section}{指导教师对研究生学位论文的学术评语}{45}%
+\contentsline {section}{学位论文答辩委员会决议书}{46}%
+\contentsline {section}{致谢}{48}%
+\contentsline {section}{攻读硕士学位期间研究成果}{49}%
+\contentsfinish 

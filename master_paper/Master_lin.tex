@@ -1,0 +1,178 @@
+
+\documentclass[UTF8,AutoFakeBold]{szuMA}
+\renewcommand{\coverCataNum}{TP301}  %http://www.ztflh.com/?c=33546
+\renewcommand{\coverSchoolCode}{10590}
+\renewcommand{\coverUDC}{004}
+\renewcommand{\coverSecret}{公开}
+\renewcommand{\major}{计算机技术}
+\renewcommand{\instrument}{计算机与软件学院}
+\renewcommand{\tutor}{周明洋}
+\renewcommand{\author}{李晓宇}
+\renewcommand{\titleCN}{网络重要节点检测算法及其在牵制控制中的应用研究}
+\renewcommand{\titleEN}{Detecting influential nodes and the application in pinning complex networks}
+
+%%adding packages
+\usepackage[margin=25mm]{geometry} %页边距上下左右各25毫米
+\usepackage{setspace} %使用调整行距的包
+\usepackage{subfigure,floatrow}
+\usepackage{url}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lfoot{}
+%\usepackage{algpseudocode} 
+%\usepackage{algorithmicx,algpseudocode}%伪代码包
+%\usepackage{graphicx}
+\usepackage{caption,cite,amsbsy,amsmath,amsfonts,multirow,color,array,algorithm,algorithmic,booktabs,colortbl}
+\usepackage{epsfig,bm}
+\usepackage{slashbox}
+\usepackage{amssymb}
+\usepackage{graphicx,subfigure}
+\usepackage{ulem}
+\floatsetup[table]{capposition=top}
+\floatsetup[figure]{capposition=bottom}
+\newfloatcommand{capbtabboxTable}{table}[][\FBwidth]
+\newfloatcommand{capbtabboxFigure}{figure}[][\FBwidth]
+
+%引用
+%\newcommand{\upcite}[1]{$^{\mbox{\scriptsize \cite{#1}}}$}
+\newcommand{\upcite}[1]{{\textsuperscript{\cite{#1}}}}
+%\newfloat{figtab}{htb}{fgtb}
+
+\def\A{\mathbf{A}}
+\def\B{\mathbf{B}}
+\def\C{\mathbf{C}}
+\def\D{\mathbf{D}}
+\def\K{\mathbf{K}}
+\def\P{\mathbf{P}}
+\def\S{\mathbf{S}}
+\def\Q{\mathbf{Q}}
+\def\T{\mathbf{T}}
+\def\V{\mathbf{V}}
+\def\X{\mathbf{X}}
+\def\Y{\mathbf{Y}}
+\def\Z{\mathbf{Z}}
+\def\E{\mathbf{E}}
+\def\F{\mathbf{F}}
+\def\G{\mathbf{G}}
+\def\I{\mathbf{I}}
+\def\H{\mathbf{H}}
+\def\R{\mathbf{R}}
+\def\M{\mathbf{M}}
+\def\U{\mathbf{U}}
+\def\W{\mathbf{W}}
+\def\L{\mathbf{L}}
+\def\J{\mathbf{J}}
+
+\def\a{\mathbf{a}}
+\def\b{\mathbf{b}}
+\def\e{\mathbf{e}}
+\def\rr{\mathbf{r}}
+\def\y{\mathbf{y}}
+\def\k{\mathbf{k}}
+\def\f{\mathbf{f}}
+\def\m{\mathbf{m}}
+\def\n{\mathbf{n}}
+\def\s{\mathbf{s}}
+\def\u{\mathbf{u}}
+\def\v{\mathbf{v}}
+\def\w{\mathbf{w}}
+\def\x{\mathbf{x}}
+\def\z{\mathbf{z}}
+\def\p{\mathbf{p}}
+
+\def\Rbb{\mathbb{R}}
+
+%defines the height of the header
+\setlength{\headheight}{15pt}
+%document begin
+\begin{document}
+
+%adding copyright page and abstract
+\input{cover.tex}	%封面
+\input{abstract.tex} %摘要
+
+\setlength{\baselineskip}{23pt} %设置行距23磅
+\tableofcontents	%目录
+
+%%%%%%%%% 图索引和表索引
+\renewcommand\listfigurename{\songti\zihao{2}{\textbf{图~~目~~录}}\vspace{0.8\baselineskip}}
+\renewcommand\listtablename{\songti\zihao{2}{\textbf{表~~目~~录}}\vspace{0.8\baselineskip}}
+
+\renewcommand{\figurename}{图}
+\renewcommand{\tablename}{表}
+
+%%%%%%%%插图索引&&插表索引
+%\makeatletter
+%\long\def\@caption#1[#2]#3{%
+% \par
+% \addcontentsline{\csname ext@#1\endcsname}{#1}%
+%   {\protect\numberline{\hspace{-1.5em}\csname fnum@#1\endcsname}\hspace{-0.5em}{\ignorespaces #2}}%
+% \begingroup
+%   \@parboxrestore
+%   \if@minipage
+%     \@setminipage
+%   \fi
+%   \normalsize
+%   \@makecaption{\csname fnum@#1\endcsname}{\ignorespaces #3}\par
+% \endgroup}
+%\makeatother
+%%%%%%%%%%%%
+% \renewcommand{\numberline}[1]{\figurename~#1\hspace*{1em}}
+%%%%%%%%%%%
+ \thispagestyle{empty} %取消页码
+% %\addcontentsline{toc}{chapter}{图目录}
+ \listoffigures
+ \thispagestyle{empty} %取消页码
+% %\addcontentsline{toc}{chapter}{表目录}
+ \newpage
+ \thispagestyle{empty} %取消页码
+% \renewcommand{\numberline}[1]{\tablename~#1\hspace*{1em}}
+ \listoftables
+ \newpage
+%%%%%%% 加入简写和数学符号意义
+% \include{abbreviate}
+% \include{Symbols}
+%%%%%%% 方程每节重新标号
+\makeatletter %
+\@addtoreset{equation}{section}
+\makeatother  %
+\renewcommand\theequation{{\thesection}%
+                   .{\arabic{equation}}}
+%%%%%%%%%% 表每节重新标号
+\makeatletter %
+\@addtoreset{table}{section}
+\makeatother  %
+\renewcommand{\thetable}{\thesection-\arabic{table}}
+\captionsetup[table]{labelsep=space, labelfont=normalfont}
+%%%%%%%% 图每节重新标号
+\makeatletter %
+\@addtoreset{figure}{section}
+\makeatother  %
+\renewcommand{\thefigure}{\thesection-\arabic{figure}}
+\captionsetup[figure]{labelsep=space, labelfont=normalfont}
+% subfigure重新编号\ref
+\makeatletter
+\renewcommand{\p@subfigure}{\thefigure}   
+\makeatother
+%%%%%%%% 图表%
+%\captionsetup[figtab]{labelsep=space, labelfont=normalfont}
+
+
+%adding chapters 1-5
+\setcounter{page}{1}
+\input{chap1.tex}
+\input{chap2.tex}
+\input{chap3.tex}
+\input{chap4.tex}
+\input{chap5.tex}
+
+%参考文献
+%\bibliographystyle{gbt7714-2005} %使用05年标准
+\bibliographystyle{gbt7714-2018}
+\bibliography{lin.bib}
+
+\input{teacher.tex}
+\input{comments.tex}
+\input{thanks.tex}
+\input{myPapers.tex}
+\end{document}

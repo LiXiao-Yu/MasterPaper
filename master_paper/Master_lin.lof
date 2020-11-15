@@ -1,0 +1,28 @@
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {无向无权重网络}}}{7}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {无向有权重网络}}}{7}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {有向无权重网络}}}{7}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {有向有权重网络}}}{7}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces 复杂网络图的表示\relax }}{7}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {全局耦合网络}}}{9}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {最近邻耦合网络}}}{9}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {星形网络}}}{9}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces 几种规则网络\relax }}{9}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces 几种随机网络\relax }}{10}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {ER随机网络}}}{10}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {WS小世界网络}}}{10}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {BA无标度网络}}}{10}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces kuramoto模型振子同步情况\relax }}{12}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces 空手道俱乐部网络\relax }}{22}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces 罗塞尔吸引子的变化情况\relax }}{24}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces 最大特征值$ \Lambda _{max}$ 关于$\alpha $的函数曲线 \relax }}{25}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces 不同网络中传统判据随控制节点比例的变化情况\relax }}{26}%
+\contentsline {figure}{\numberline {3-5}{\ignorespaces 不同网络中耦合强度范围随控制节点比例的变化情况\relax }}{26}%
+\contentsline {figure}{\numberline {3-6}{\ignorespaces 不同网络中收敛速度随控制节点比例的变化情况\relax }}{27}%
+\contentsline {figure}{\numberline {3-7}{\ignorespaces 不同网络中三个指标的重叠情况\relax }}{27}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces 一个仿真网络\relax }}{32}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces Italy powergrid数据集上不同方法选择节点的扰动情况\relax }}{34}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces 六个数据集上耦合强度范围跟随控制节点比例的变化情况\relax }}{35}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces 六个数据集上传统比率判据跟随控制节点比例的变化情况\relax }}{36}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces 六个数据集上不同方法选择节点集合的重叠情况\relax }}{36}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces 六个数据集上耦合强度范围和传统比率判据的皮尔森系数\relax }}{37}%
+\contentsfinish 

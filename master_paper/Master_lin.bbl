@@ -1,0 +1,489 @@
+﻿\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{Ringma2018}
+\bibauthor{RINGMA J\@, LEGGE S\@, WOINARSKI J, et~al}\@.
+  \bibtitle{Australia’s mammal fauna requires a strategic and enhanced
+  network of predator-free havens}\bibmark{[J]}\@. \bibjournal{Nature ecology
+  \& evolution}\@, \bibyear{2018}\@,
+  \bibvolume{2}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{410\thinspace{}\textnormal{--}\thinspace{}411}\@.
+
+\bibitem{Wang2017}
+\bibauthor{WANG X\@, SU H\@, WANG L, et~al}\@. \bibtitle{Edge consensus on
+  complex networks: a structural analysis}\bibmark{[J]}\@.
+  \bibjournal{International Journal of Control}\@, \bibyear{2017}\@,
+  \bibvolume{90}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{1584\thinspace{}\textnormal{--}\thinspace{}1596}\@.
+
+\bibitem{汪小帆2006}
+\bibauthor{汪小帆\@, 李翔\@, 陈关荣}\@.
+  \bibbooktitle{复杂网络理论及其应用}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{清华大学出版社有限公司}\@, \bibyear{2006}\@.
+
+\bibitem{Liao2017}
+\bibauthor{LIAO H\@, MARIANI M~S\@, MEDO M, et~al}\@. \bibtitle{Ranking in
+  evolving complex networks}\bibmark{[J]}\@. \bibjournal{Physics Reports}\@,
+  \bibyear{2017}\@, \bibvolume{689}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}54}\@.
+
+\bibitem{Holme2019}
+\bibauthor{HOLME P}\@. \bibtitle{Rare and everywhere: Perspectives on
+  scale-free networks}\bibmark{[J]}\@. \bibjournal{Nature communications}\@,
+  \bibyear{2019}\@, \bibvolume{10}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}3}\@.
+
+\bibitem{Brandner2016}
+\bibauthor{BRANDNER G\@, SCHILCHER U\@, BETTSTETTER C}\@. \bibtitle{Firefly
+  synchronization with phase rate equalization and its experimental analysis in
+  wireless systems}\bibmark{[J]}\@. \bibjournal{Computer Networks}\@,
+  \bibyear{2016}\@, \bibvolume{97}\thinspace{}\textnormal{:
+  }\bibpages{74\thinspace{}\textnormal{--}\thinspace{}87}\@.
+
+\bibitem{Rodrigues2016}
+\bibauthor{RODRIGUES F~A\@, PERON T~K~D\@, JI P, et~al}\@. \bibtitle{The
+  Kuramoto model in complex networks}\bibmark{[J]}\@. \bibjournal{Physics
+  Reports}\@, \bibyear{2016}\@, \bibvolume{610}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}98}\@.
+
+\bibitem{Zhou2016}
+\bibauthor{ZHOU M-Y\@, HE X\@, FU Z-Q, et~al}\@. \bibtitle{Diffusion inspires
+  selection of pinning nodes in pinning control}\bibmark{[J]}\@.
+  \bibjournal{Physica A: Statistical Mechanics and its Applications}\@,
+  \bibyear{2016}\@, \bibvolume{446}\thinspace{}\textnormal{:
+  }\bibpages{120\thinspace{}\textnormal{--}\thinspace{}128}\@.
+
+\bibitem{Kennedy2006}
+\bibauthor{KENNEDY J}\@. \bibtitle{Swarm intelligence}\bibmark{[G]}\@.
+  \bibbooktitle{Handbook of nature-inspired and innovative computing}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Springer}\@,
+  \bibyear{2006}\thinspace{}\textnormal{:
+  }\bibpages{187\thinspace{}\textnormal{--}\thinspace{}219}\@.
+
+\bibitem{He2017}
+\bibauthor{HE W\@, CHEN G\@, HAN Q-L, et~al}\@. \bibtitle{Network-based
+  leader-following consensus of nonlinear multi-agent systems via distributed
+  impulsive control}\bibmark{[J]}\@. \bibjournal{Information Sciences}\@,
+  \bibyear{2017}\@, \bibvolume{380}\thinspace{}\textnormal{:
+  }\bibpages{145\thinspace{}\textnormal{--}\thinspace{}158}\@.
+
+\bibitem{Chen2017}
+\bibauthor{CHEN Z\@, WU J\@, XIA Y, et~al}\@. \bibtitle{Robustness of
+  interdependent power grids and communication networks: A complex network
+  perspective}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Circuits and
+  Systems II: Express Briefs}\@, \bibyear{2017}\@,
+  \bibvolume{65}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{115\thinspace{}\textnormal{--}\thinspace{}119}\@.
+
+\bibitem{Page1999}
+\bibauthor{PAGE L\@, BRIN S\@, MOTWANI R, et~al}\@. \bibtitle{The pagerank
+  citation ranking: Bringing order to the web.}\bibmark{[R]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibinstitution{Stanford
+  InfoLab}\@, \bibyear{1999}\@.
+
+\bibitem{Morone2015}
+\bibauthor{MORONE F\@, MAKSE H~A}\@. \bibtitle{Influence maximization in
+  complex networks through optimal percolation}\bibmark{[J]}\@.
+  \bibjournal{Nature}\@, \bibyear{2015}\@,
+  \bibvolume{524}\bibnumber{(7563)}\thinspace{}\textnormal{:
+  }\bibpages{65\thinspace{}\textnormal{--}\thinspace{}68}\@.
+
+\bibitem{Ariaratnam2001}
+\bibauthor{ARIARATNAM J~T\@, STROGATZ S~H}\@. \bibtitle{Phase diagram for the
+  Winfree model of coupled nonlinear oscillators}\bibmark{[J]}\@.
+  \bibjournal{Physical Review Letters}\@, \bibyear{2001}\@,
+  \bibvolume{86}\bibnumber{(19)}\thinspace{}\textnormal{: }\bibpages{4278}\@.
+
+\bibitem{Grigoriev1997}
+\bibauthor{GRIGORIEV R\@, CROSS M\@, SCHUSTER H}\@. \bibtitle{Pinning control
+  of spatiotemporal chaos}\bibmark{[J]}\@. \bibjournal{Physical Review
+  Letters}\@, \bibyear{1997}\@,
+  \bibvolume{79}\bibnumber{(15)}\thinspace{}\textnormal{: }\bibpages{2795}\@.
+
+\bibitem{Chen2014}
+\bibauthor{CHEN G}\@. \bibtitle{Pinning control and synchronization on complex
+  dynamical networks}\bibmark{[J]}\@. \bibjournal{International Journal of
+  Control, Automation and Systems}\@, \bibyear{2014}\@,
+  \bibvolume{12}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{221\thinspace{}\textnormal{--}\thinspace{}230}\@.
+
+\bibitem{Wang2002}
+\bibauthor{WANG X~F\@, CHEN G}\@. \bibtitle{Pinning control of scale-free
+  dynamical networks}\bibmark{[J]}\@. \bibjournal{Physica A: Statistical
+  Mechanics and its Applications}\@, \bibyear{2002}\@,
+  \bibvolume{310}\bibnumber{(3-4)}\thinspace{}\textnormal{:
+  }\bibpages{521\thinspace{}\textnormal{--}\thinspace{}531}\@.
+
+\bibitem{Song2010}
+\bibauthor{SONG Q\@, CAO J\@, YU W}\@. \bibtitle{Second-order leader-following
+  consensus of nonlinear multi-agent systems via pinning
+  control}\bibmark{[J]}\@. \bibjournal{Systems \& Control Letters}\@,
+  \bibyear{2010}\@, \bibvolume{59}\bibnumber{(9)}\thinspace{}\textnormal{:
+  }\bibpages{553\thinspace{}\textnormal{--}\thinspace{}562}\@.
+
+\bibitem{Xiong2010}
+\bibauthor{XIONG W\@, HO D~W\@, HUANG C}\@. \bibtitle{Pinning synchronization
+  of time-varying polytopic directed stochastic networks}\bibmark{[J]}\@.
+  \bibjournal{Physics Letters A}\@, \bibyear{2010}\@,
+  \bibvolume{374}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{439\thinspace{}\textnormal{--}\thinspace{}447}\@.
+
+\bibitem{Lu2010}
+\bibauthor{LU W\@, LI X\@, RONG Z}\@. \bibtitle{Global stabilization of complex
+  networks with digraph topologies via a local pinning
+  algorithm}\bibmark{[J]}\@. \bibjournal{Automatica}\@, \bibyear{2010}\@,
+  \bibvolume{46}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{116\thinspace{}\textnormal{--}\thinspace{}121}\@.
+
+\bibitem{Lin2016}
+\bibauthor{LIN W\@, FAN H\@, WANG Y, et~al}\@. \bibtitle{Controlling
+  synchronous patterns in complex networks}\bibmark{[J]}\@.
+  \bibjournal{Physical Review E}\@, \bibyear{2016}\@,
+  \bibvolume{93}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{042209}\@.
+
+\bibitem{Wong2013}
+\bibauthor{WONG W~K\@, ZHANG W\@, TANG Y, et~al}\@. \bibtitle{Stochastic
+  synchronization of complex networks with mixed impulses}\bibmark{[J]}\@.
+  \bibjournal{IEEE Transactions on Circuits and Systems I: Regular Papers}\@,
+  \bibyear{2013}\@, \bibvolume{60}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{2657\thinspace{}\textnormal{--}\thinspace{}2667}\@.
+
+\bibitem{Liu2016}
+\bibauthor{LIU X\@, ZHANG K}\@. \bibtitle{Synchronization of linear dynamical
+  networks on time scales: Pinning control via delayed
+  impulses}\bibmark{[J]}\@. \bibjournal{Automatica}\@, \bibyear{2016}\@,
+  \bibvolume{72}\thinspace{}\textnormal{:
+  }\bibpages{147\thinspace{}\textnormal{--}\thinspace{}152}\@.
+
+\bibitem{Ahmed2017}
+\bibauthor{AHMED M~A~A\@, LIU Y\@, ZHANG W, et~al}\@. \bibtitle{Exponential
+  synchronization via pinning adaptive control for complex networks of networks
+  with time delays}\bibmark{[J]}\@. \bibjournal{Neurocomputing}\@,
+  \bibyear{2017}\@, \bibvolume{225}\thinspace{}\textnormal{:
+  }\bibpages{198\thinspace{}\textnormal{--}\thinspace{}204}\@.
+
+\bibitem{Shi2017}
+\bibauthor{SHI L\@, ZHU H\@, ZHONG S, et~al}\@. \bibtitle{Cluster
+  synchronization of linearly coupled complex networks via linear and adaptive
+  feedback pinning controls}\bibmark{[J]}\@. \bibjournal{Nonlinear Dynamics}\@,
+  \bibyear{2017}\@, \bibvolume{88}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{859\thinspace{}\textnormal{--}\thinspace{}870}\@.
+
+\bibitem{Qin2018}
+\bibauthor{QIN Z\@, WANG J-L\@, HUANG Y-L, et~al}\@. \bibtitle{Analysis and
+  adaptive control for robust synchronization and H∞ synchronization of
+  complex dynamical networks with multiple time-delays}\bibmark{[J]}\@.
+  \bibjournal{Neurocomputing}\@, \bibyear{2018}\@,
+  \bibvolume{289}\thinspace{}\textnormal{:
+  }\bibpages{241\thinspace{}\textnormal{--}\thinspace{}251}\@.
+
+\bibitem{Zhang2018}
+\bibauthor{ZHANG W\@, LI C\@, YANG S, et~al}\@. \bibtitle{Exponential
+  synchronisation of complex networks with delays and perturbations via
+  impulsive and adaptive control}\bibmark{[J]}\@. \bibjournal{IET Control
+  Theory \& Applications}\@, \bibyear{2018}\@,
+  \bibvolume{13}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{395\thinspace{}\textnormal{--}\thinspace{}402}\@.
+
+\bibitem{Liu2016a}
+\bibauthor{LIU Z-W\@, YU X\@, GUAN Z-H, et~al}\@. \bibtitle{Pulse-modulated
+  intermittent control in consensus of multiagent systems}\bibmark{[J]}\@.
+  \bibjournal{IEEE Transactions on Systems, Man, and Cybernetics: Systems}\@,
+  \bibyear{2016}\@, \bibvolume{47}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{783\thinspace{}\textnormal{--}\thinspace{}793}\@.
+
+\bibitem{Liu2015}
+\bibauthor{LIU X\@, LI P\@, CHEN T}\@. \bibtitle{Cluster synchronization for
+  delayed complex networks via periodically intermittent pinning
+  control}\bibmark{[J]}\@. \bibjournal{Neurocomputing}\@, \bibyear{2015}\@,
+  \bibvolume{162}\thinspace{}\textnormal{:
+  }\bibpages{191\thinspace{}\textnormal{--}\thinspace{}200}\@.
+
+\bibitem{Wang2018}
+\bibauthor{WANG P\@, HONG Y\@, SU H}\@. \bibtitle{Stabilization of stochastic
+  complex-valued coupled delayed systems with Markovian switching via
+  periodically intermittent control}\bibmark{[J]}\@. \bibjournal{Nonlinear
+  Analysis: Hybrid Systems}\@, \bibyear{2018}\@,
+  \bibvolume{29}\thinspace{}\textnormal{:
+  }\bibpages{395\thinspace{}\textnormal{--}\thinspace{}413}\@.
+
+\bibitem{Lue2016a}
+\bibauthor{L{\"U} L\@, CHEN D\@, REN X-L, et~al}\@. \bibtitle{Vital nodes
+  identification in complex networks}\bibmark{[J]}\@. \bibjournal{Physics
+  Reports}\@, \bibyear{2016}\@, \bibvolume{650}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}63}\@.
+
+\bibitem{任晓龙2014}
+\bibauthor{任晓龙\@, 吕琳媛}\@.
+  \bibtitle{网络重要节点排序方法综述}\bibmark{[J]}\@.
+  \bibjournal{科学通报}\@, \bibyear{2014}\@,
+  \bibvolume{59}\bibnumber{(13)}\thinspace{}\textnormal{:
+  }\bibpages{1175\thinspace{}\textnormal{--}\thinspace{}1197}\@.
+
+\bibitem{Kitsak2010}
+\bibauthor{KITSAK M\@, GALLOS L~K\@, HAVLIN S, et~al}\@.
+  \bibtitle{Identification of influential spreaders in complex
+  networks}\bibmark{[J]}\@. \bibjournal{Nature physics}\@, \bibyear{2010}\@,
+  \bibvolume{6}\bibnumber{(11)}\thinspace{}\textnormal{:
+  }\bibpages{888\thinspace{}\textnormal{--}\thinspace{}893}\@.
+
+\bibitem{Lue2016}
+\bibauthor{L{\"U} L\@, ZHOU T\@, ZHANG Q-M, et~al}\@. \bibtitle{The H-index of
+  a network node and its relation to degree and coreness}\bibmark{[J]}\@.
+  \bibjournal{Nature communications}\@, \bibyear{2016}\@,
+  \bibvolume{7}\thinspace{}\textnormal{: }\bibpages{10168}\@.
+
+\bibitem{Benzi2013}
+\bibauthor{BENZI M\@, KLYMKO C}\@. \bibtitle{Total communicability as a
+  centrality measure}\bibmark{[J]}\@. \bibjournal{Journal of Complex
+  Networks}\@, \bibyear{2013}\@,
+  \bibvolume{1}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{124\thinspace{}\textnormal{--}\thinspace{}149}\@.
+
+\bibitem{Li2014}
+\bibauthor{LI Q\@, ZHOU T\@, L{\"U} L, et~al}\@. \bibtitle{Identifying
+  influential spreaders by weighted LeaderRank}\bibmark{[J]}\@.
+  \bibjournal{Physica A: Statistical Mechanics and its Applications}\@,
+  \bibyear{2014}\@, \bibvolume{404}\thinspace{}\textnormal{:
+  }\bibpages{47\thinspace{}\textnormal{--}\thinspace{}55}\@.
+
+\bibitem{Su2015}
+\bibauthor{SU S\@, YANG K\@, ZHANG N}\@. \bibtitle{A comparative study of
+  LeaderRank and PageRank algorithms [J]}\bibmark{[J]}\@.
+  \bibjournal{Information Technology}\@, \bibyear{2015}\@,
+  \bibvolume{4}\thinspace{}\textnormal{:
+  }\bibpages{8\thinspace{}\textnormal{--}\thinspace{}11}\@.
+
+\bibitem{Restrepo2006}
+\bibauthor{RESTREPO J~G\@, OTT E\@, HUNT B~R}\@. \bibtitle{Characterizing the
+  dynamical importance of network nodes and links}\bibmark{[J]}\@.
+  \bibjournal{Physical review letters}\@, \bibyear{2006}\@,
+  \bibvolume{97}\bibnumber{(9)}\thinspace{}\textnormal{: }\bibpages{094102}\@.
+
+\bibitem{Rao2009}
+\bibauthor{RAO Y-P\@, LIN J-Y\@, ZHOU D-F}\@. \bibtitle{Method for network
+  invulnerability and node importance evaluation}\bibmark{[J]}\@.
+  \bibjournal{Computer Engineering}\@, \bibyear{2009}\@,
+  \bibvolume{6}\thinspace{}\textnormal{:
+  }\bibpages{14\thinspace{}\textnormal{--}\thinspace{}16}\@.
+
+\bibitem{Jia-sheng2011}
+\bibauthor{JIA-SHENG W\@, XIAO-PING W\@, BO Y, et~al}\@. \bibtitle{Improved
+  method of node importance evaluation based on node contraction in complex
+  networks}\bibmark{[J]}\@. \bibjournal{Procedia Engineering}\@,
+  \bibyear{2011}\@, \bibvolume{15}\thinspace{}\textnormal{:
+  }\bibpages{1600\thinspace{}\textnormal{--}\thinspace{}1604}\@.
+
+\bibitem{王学光2013}
+\bibauthor{王学光}\@.
+  \bibtitle{基于合作博弈论的社会网络关键节点发现研究}\bibmark{[J]}\@.
+  \bibjournal{计算机科学}\@, \bibyear{2013}\@,
+  \bibvolume{40}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{155\thinspace{}\textnormal{--}\thinspace{}159}\@.
+
+\bibitem{Strogatz2001}
+\bibauthor{STROGATZ S~H}\@. \bibtitle{Exploring complex
+  networks}\bibmark{[J]}\@. \bibjournal{nature}\@, \bibyear{2001}\@,
+  \bibvolume{410}\bibnumber{(6825)}\thinspace{}\textnormal{:
+  }\bibpages{268\thinspace{}\textnormal{--}\thinspace{}276}\@.
+
+\bibitem{Erdoes1959}
+\bibauthor{ERD{\"O}S P\@, R{\'E}NYI A\@, OTHERS}\@. \bibtitle{On random
+  graphs}\bibmark{[J]}\@. \bibjournal{Publicationes mathematicae}\@,
+  \bibyear{1959}\@, \bibvolume{6}\bibnumber{(26)}\thinspace{}\textnormal{:
+  }\bibpages{290\thinspace{}\textnormal{--}\thinspace{}297}\@.
+
+\bibitem{Watts1998}
+\bibauthor{WATTS D~J\@, STROGATZ S~H}\@. \bibtitle{Collective dynamics of
+  ‘small-world’networks}\bibmark{[J]}\@. \bibjournal{nature}\@,
+  \bibyear{1998}\@, \bibvolume{393}\bibnumber{(6684)}\thinspace{}\textnormal{:
+  }\bibpages{440}\@.
+
+\bibitem{Durrett2007}
+\bibauthor{DURRETT R}\@. \bibbooktitle{Random graph
+  dynamics\thinspace{}\textnormal{: }Vol~200}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Cambridge
+  university press Cambridge}\@, \bibyear{2007}\@.
+
+\bibitem{Zhou2019}
+\bibauthor{ZHOU M-Y\@, LI X-Y\@, XIONG W-M, et~al}\@. \bibtitle{The coupling
+  strength versus convergence speed in pinning control}\bibmark{[J]}\@.
+  \bibjournal{Nonlinear Dynamics}\@, \bibyear{2019}\@,
+  \bibvolume{96}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{1055\thinspace{}\textnormal{--}\thinspace{}1066}\@.
+
+\bibitem{Brodka2011}
+\bibauthor{BR{\'O}DKA P\@, SKIBICKI K\@, KAZIENKO P, et~al}\@. \bibtitle{A
+  degree centrality in multi-layered social network}\bibmark{[C]}\@.
+  \bibbooktitle{2011 International Conference on Computational Aspects of
+  Social Networks (CASoN)}\@. \bibyear{2011}\thinspace{}\textnormal{:
+  }\bibpages{237\thinspace{}\textnormal{--}\thinspace{}242}\@.
+
+\bibitem{Newman2005}
+\bibauthor{NEWMAN M~E}\@. \bibtitle{A measure of betweenness centrality based
+  on random walks}\bibmark{[J]}\@. \bibjournal{Social networks}\@,
+  \bibyear{2005}\@, \bibvolume{27}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{39\thinspace{}\textnormal{--}\thinspace{}54}\@.
+
+\bibitem{Okamoto2008}
+\bibauthor{OKAMOTO K\@, CHEN W\@, LI X-Y}\@. \bibtitle{Ranking of closeness
+  centrality for large-scale social networks}\bibmark{[C]}\@.
+  \bibbooktitle{International workshop on frontiers in algorithmics}\@.
+  \bibyear{2008}\thinspace{}\textnormal{:
+  }\bibpages{186\thinspace{}\textnormal{--}\thinspace{}195}\@.
+
+\bibitem{Perra2008}
+\bibauthor{PERRA N\@, FORTUNATO S}\@. \bibtitle{Spectral centrality measures in
+  complex networks}\bibmark{[J]}\@. \bibjournal{Physical Review E}\@,
+  \bibyear{2008}\@, \bibvolume{78}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{036107}\@.
+
+\bibitem{Ma1991}
+\bibauthor{MA Y\@, CHEN C\@, MEIGS G, et~al}\@. \bibtitle{High-resolution
+  K-shell photoabsorption measurements of simple molecules}\bibmark{[J]}\@.
+  \bibjournal{Physical Review A}\@, \bibyear{1991}\@,
+  \bibvolume{44}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{1848}\@.
+
+\bibitem{Amani2017}
+\bibauthor{AMANI A~M\@, JALILI M\@, YU X, et~al}\@. \bibtitle{Finding the most
+  influential nodes in pinning controllability of complex
+  networks}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Circuits and
+  Systems II: Express Briefs}\@, \bibyear{2017}\@,
+  \bibvolume{64}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{685\thinspace{}\textnormal{--}\thinspace{}689}\@.
+
+\bibitem{Lue2011}
+\bibauthor{L{\"U} L\@, ZHOU T}\@. \bibtitle{Link prediction in complex
+  networks: A survey}\bibmark{[J]}\@. \bibjournal{Physica A: statistical
+  mechanics and its applications}\@, \bibyear{2011}\@,
+  \bibvolume{390}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{1150\thinspace{}\textnormal{--}\thinspace{}1170}\@.
+
+\bibitem{LeeRodgers1988}
+\bibauthor{LEE~RODGERS J\@, NICEWANDER W~A}\@. \bibtitle{Thirteen ways to look
+  at the correlation coefficient}\bibmark{[J]}\@. \bibjournal{The American
+  Statistician}\@, \bibyear{1988}\@,
+  \bibvolume{42}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{59\thinspace{}\textnormal{--}\thinspace{}66}\@.
+
+\bibitem{Wolf1985}
+\bibauthor{WOLF A\@, SWIFT J~B\@, SWINNEY H~L, et~al}\@. \bibtitle{Determining
+  Lyapunov exponents from a time series}\bibmark{[J]}\@. \bibjournal{Physica D:
+  Nonlinear Phenomena}\@, \bibyear{1985}\@,
+  \bibvolume{16}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{285\thinspace{}\textnormal{--}\thinspace{}317}\@.
+
+\bibitem{Sorrentino2007}
+\bibauthor{SORRENTINO F\@, DI~BERNARDO M\@, GAROFALO F, et~al}\@.
+  \bibtitle{Controllability of complex networks via pinning}\bibmark{[J]}\@.
+  \bibjournal{Physical Review E}\@, \bibyear{2007}\@,
+  \bibvolume{75}\bibnumber{(4)}\thinspace{}\textnormal{: }\bibpages{046103}\@.
+
+\bibitem{Stewart2000}
+\bibauthor{STEWART I}\@. \bibtitle{The Lorenz attractor exists}\bibmark{[J]}\@.
+  \bibjournal{Nature}\@, \bibyear{2000}\@,
+  \bibvolume{406}\bibnumber{(6799)}\thinspace{}\textnormal{:
+  }\bibpages{948\thinspace{}\textnormal{--}\thinspace{}949}\@.
+
+\bibitem{L2002}
+\bibauthor{JH L\@, CHEN G}\@. \bibtitle{A new chaotic attractor
+  coined}\bibmark{[J]}\@. \bibjournal{Int. J. Bifurc. chaos}\@,
+  \bibyear{2002}\@, \bibvolume{12}\thinspace{}\textnormal{:
+  }\bibpages{659\thinspace{}\textnormal{--}\thinspace{}661}\@.
+
+\bibitem{Zachary1977}
+\bibauthor{ZACHARY W~W}\@. \bibtitle{An information flow model for conflict and
+  fission in small groups}\bibmark{[J]}\@. \bibjournal{Journal of
+  Anthropological Research}\@, \bibyear{1977}\@,
+  \bibvolume{33}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{452\thinspace{}\textnormal{--}\thinspace{}473}\@.
+
+\bibitem{Motter2013}
+\bibauthor{MOTTER A~E\@, MYERS S~A\@, ANGHEL M, et~al}\@. \bibtitle{Spontaneous
+  synchrony in power-grid networks}\bibmark{[J]}\@. \bibjournal{Nature
+  Physics}\@, \bibyear{2013}\@,
+  \bibvolume{9}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{191\thinspace{}\textnormal{--}\thinspace{}197}\@.
+
+\bibitem{Beuming2005}
+\bibauthor{BEUMING T\@, SKRABANEK L\@, NIV M~Y, et~al}\@. \bibtitle{PDZBase: a
+  protein--protein interaction database for PDZ-domains}\bibmark{[J]}\@.
+  \bibjournal{Bioinformatics}\@, \bibyear{2005}\@,
+  \bibvolume{21}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{827\thinspace{}\textnormal{--}\thinspace{}828}\@.
+
+\bibitem{Knuth2008}
+\bibauthor{KNUTH D~E}\@. \bibbooktitle{The art of computer programming:
+  Introduction to combinatiorial algorithms and Boolean
+  functions\thinspace{}\textnormal{: }Vol~4}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{Addison-Wesley}\@, \bibyear{2008}\@.
+
+\bibitem{Roessler1976}
+\bibauthor{R{\"O}SSLER O~E}\@. \bibtitle{An equation for continuous
+  chaos}\bibmark{[J]}\@. \bibjournal{Physics Letters A}\@, \bibyear{1976}\@,
+  \bibvolume{57}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{397\thinspace{}\textnormal{--}\thinspace{}398}\@.
+
+\bibitem{Agiza2001}
+\bibauthor{AGIZA H\@, YASSEN M}\@. \bibtitle{Synchronization of Rossler and
+  Chen chaotic dynamical systems using active control}\bibmark{[J]}\@.
+  \bibjournal{Physics Letters A}\@, \bibyear{2001}\@,
+  \bibvolume{278}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{191\thinspace{}\textnormal{--}\thinspace{}197}\@.
+
+\bibitem{Coulomb2005}
+\bibauthor{COULOMB S\@, BAUER M\@, BERNARD D, et~al}\@. \bibtitle{Gene
+  essentiality and the topology of protein interaction
+  networks}\bibmark{[J]}\@. \bibjournal{Proceedings of the Royal Society B:
+  Biological Sciences}\@, \bibyear{2005}\@,
+  \bibvolume{272}\bibnumber{(1573)}\thinspace{}\textnormal{:
+  }\bibpages{1721\thinspace{}\textnormal{--}\thinspace{}1725}\@.
+
+\bibitem{Duch2005}
+\bibauthor{DUCH J\@, ARENAS A}\@. \bibtitle{Community detection in complex
+  networks using extremal optimization}\bibmark{[J]}\@. \bibjournal{Physical
+  review E}\@, \bibyear{2005}\@,
+  \bibvolume{72}\bibnumber{(2)}\thinspace{}\textnormal{: }\bibpages{027104}\@.
+
+\bibitem{FAA}
+\bibauthor{{Federal Aviation Administration}}\@. \bibtitle{Air Traffic Control
+  System Command Center}\bibmark{[R]}\@. \@.
+
+\bibitem{Viswanath2009}
+\bibauthor{VISWANATH B\@, MISLOVE A\@, CHA M, et~al}\@. \bibtitle{On the
+  evolution of user interaction in facebook}\bibmark{[C]}\@.
+  \bibbooktitle{Proceedings of the 2nd ACM workshop on Online social
+  networks}\@. \bibyear{2009}\thinspace{}\textnormal{:
+  }\bibpages{37\thinspace{}\textnormal{--}\thinspace{}42}\@.
+
+\bibitem{2017}
+\bibauthor{ANON}\@. \bibtitle{Hamsterster full network dataset --
+  {KONECT}}\bibmark{[R/OL]}\@. \bibyear{2017}\@.
+  \url{http://konect.uni-koblenz.de/networks/petster-hamster}\@.
+
+\end{thebibliography}

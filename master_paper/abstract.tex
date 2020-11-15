@@ -1,0 +1,69 @@
+\begin{abstractCN}
+	
+计算机病毒的扩散、传染病的传播与控制以及社交媒体上舆论的爆发等信息扩散现象可以抽象成网络上的传播过程。
+为了阻止或加速网络上这种传播行为，需要选择一系列重要节点，人为地对其施加控制策略。
+传统重要节点检测算法主要通过网络的拓扑结构，以节点中心性排序来选择重要节点,但在大规模网络中这些算法往往效果不稳定。
+本文从大规模网络的控制问题出发，结合真实网络数据，分析了复杂网络的牵制控制问题，提出了一个复杂度较低的网络重要节点检测算法。具体的研究内容可分为以下两个部分：
+
+第一部分主要分析经典控制问题，研究了网络牵制控制的衡量指标。实验发现，经典的牵制控制比率判据难以精确衡量节点对网络的控制能力，在极端情况下，经典判据会失效。
+因此，本文针对网络牵制控制提出两个指标：耦合强度范围和收敛速度。
+前者描述了网络得到控制时模型中耦合强度满足的条件；后者从李雅普诺夫指数出发，衡量了网络达到稳定时的收敛速度。
+耦合强度范围和收敛速度分别从不同角度刻画了网络牵制控制，两者关联性极低；然而经典判据仅用控制矩阵的最大、最小特征值的比值去描述网络控制能力，没有考虑到耦合强度的变化和控制的速度的问题。
+此外，研究发现经典判据、耦合强度范围和收敛速度这三个指标无法同时到达最优状态。
+通过真实网络上的实验，验证了耦合强度范围和收敛速度描述网络牵制控制能力的精确性和有效性。
+
+第二部分主要研究重要节点检测算法。
+工程上而言，复杂网络的控制优化可以分为两个部分：提高控制的响应速度，或者扩大系统的耦合强度范围。
+控制的响应速度同收敛速度有关；在控制节点比例确定的情况下，扩大系统的耦合强度范围需要部署更好的控制节点，提高工程调试的便利性。
+因此，为了得到最佳的控制节点集合，本文基于扰动理论，提出了一个重要节点检测的贪婪算法。
+该算法复杂度低，能够高效地计算出最佳控制节点。
+在六个真实网络中的实验显示，与其他重要节点检测算法相比，基于耦合强度范围扰动的算法更容易找到被其他算法所忽视的重要节点，能够极大地增强网络牵制控制能力。
+同时，实验发现耦合强度范围和传统判据存在比较强的相关性，这说明传统判据在网络控制和重要节点检测方面依然存在很高的利用价值。
+
+总之，本文主要研究网络重要节点检测算法及其在牵制控制中的应用。
+文章从经典控制问题出发，提出耦合强度范围和收敛速度两个指标，并基于耦合强度范围的扰动提出了一个重要节点检测算法。本文加深了复杂网络上牵制控制的理解，对牵制控制应用方面具有比较大的现实意义。
+
+\end{abstractCN}
+
+\begin{keywordCN}
+复杂网络；牵制控制；耦合强度范围；节点检测
+\end{keywordCN}
+
+\begin{abstractEN}
+	
+Spreading issues, such as computer viruses diffusion, the spread and control of infectious diseases, and the outbreak of public opinion on social media can be abstracted into the spread in the network.
+Generally speaking, in order to prevent or accelerate such spreading behavior in the network, we could select a small set of influential nodes and apply control strategies to them.
+The traditional algorithms identify influential nodes from the topology of the network based on the nodes' centrality.
+However, they fail in large-scale networks.
+In this paper, we analyze the pinning control problem in large-scale networks and propose an effective algorithm to detect influential nodes. Contribution of the dissertation can be divided into the following two parts:
+
+The first part investigates the classical pinning control problem.
+We demonstrate that the widely used eigenratio metric cannot precisely characterize the pinning controllability and may fail under some extreme conditions. 
+Therefore, we propose a method to describe pinning controllability from two perspectives: the coupling range and convergence speed.
+The former indicates the synchronization range of the coupling strength between agents; 
+the latter, derived from the Lyapunov index, characterizes the convergence rate of the pinning control.
+The coupling range and convergence speed are different metrics, but the eigenratio ignores their difference and characterizes pinning controllability roughly by the ratio of the maximum and minimum eigenvalues. 
+Moreover, we also find that the three metrics cannot reach the optimums at the same time.
+Simulation in real networks verified the effectiveness of the proposed metrics.
+
+The second part focuses on the algorithm to detect influential nodes.
+In engineering fields, the optimization of controlling a complex network can be divided into two parts: increasing the response speed of the system, or enlarging the range of the coupling strength.
+The response speed is related to convergence speed. 
+When the fraction of pinning nodes is fixed, we need to select a better set of influential nodes to enlarge the coupling range and 
+improve the convenience of debugging.
+In order to obtain the optimal set of pinning nodes, based on the perturbation of the coupling range, we propose a greedy algorithm to detect influential nodes.
+The algorithm has low complexity and can efficiently calculate the optimal control nodes.
+Experiments on six real networks show that compared with other methods, our proposed method tends to choose those nodes that are ignored by other methods and greatly enhances the pinning controllability.
+Moreover, we also find that there is a strong correlation between the coupling range and the  eigenratio, which suggests that the eigenratio still holds in pinning control and node detection.
+
+In conclusion, we mainly study pinning control and detect influential nodes in complex networks.
+We characterize pinning controllability from two perspectives: the coupling range and convergence speed.
+Then according to the perturbation of the coupling range, we propose an algorithm to detect influential nodes.
+Our work can deepen our understanding of the pinning control problem and help the pinning control in engineering.
+
+
+\end{abstractEN}
+
+\begin{keywordEN}
+Complex network; pinning control; the conpling range; node detection
+\end{keywordEN}

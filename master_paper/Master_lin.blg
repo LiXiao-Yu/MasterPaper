@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Master_lin.aux
+The style file: gbt7714-2018.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: lin.bib
+Warning--string name "apr" is undefined
+--line 1121 of file lin.bib
+Warning--Require address: 汪小帆2006
+Warning--Require address: Kennedy2006
+Warning--Require address: Page1999
+Warning--Require address: Durrett2007
+Warning--Require address: Knuth2008
+Warning--Require year: FAA
+Warning--Require author: 2017
+Warning--Require citedate: 2017
+You've used 69 entries,
+            3107 wiz_defined-function locations,
+            1189 strings with 17497 characters,
+and the built_in function-call counts, 120392 in all, are:
+= -- 13069
+> -- 237
+< -- 543
++ -- 10117
+- -- 831
+* -- 3565
+:= -- 13041
+add.period$ -- 0
+call.type$ -- 69
+change.case$ -- 336
+chr.to.int$ -- 0
+cite$ -- 77
+duplicate$ -- 17231
+empty$ -- 4858
+format.name$ -- 672
+if$ -- 31801
+int.to.chr$ -- 0
+int.to.str$ -- 69
+missing$ -- 0
+newline$ -- 234
+num.names$ -- 69
+pop$ -- 1840
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1040
+stack$ -- 0
+substring$ -- 14302
+swap$ -- 3629
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 1670
+width$ -- 71
+write$ -- 1012
+(There were 9 warnings)
